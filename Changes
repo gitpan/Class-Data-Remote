@@ -1,6 +1,9 @@
 
 Changelog file for Perl distribution Class::Data::Remote
 
+0.004   2009-03-16
+  - POD fix.
+
 0.003   2009-03-16
   - Added missing files to MANIFEST (rt#44184 - thanks frank.wiegand!)
 

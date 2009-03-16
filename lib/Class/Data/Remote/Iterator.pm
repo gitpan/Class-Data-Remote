@@ -1,5 +1,5 @@
 
-package Class::DBI::Lite::Iterator;
+package Class::Data::Remote::Iterator;
 
 use strict;
 use warnings 'all';
