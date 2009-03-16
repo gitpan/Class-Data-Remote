@@ -1,0 +1,14 @@
+Changes
+MANIFEST
+Makefile.PL
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+inc/Module/Install.pm
+lib/Class/Data/Remote.pm
+t/010-basic/010-compile.t
+
