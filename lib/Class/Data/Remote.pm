@@ -24,7 +24,7 @@ BEGIN {
     $meta
   );
 
-  $VERSION = '0.002';
+  $VERSION = '0.003';
   
   $Weaken_Is_Available = 1;
   eval {

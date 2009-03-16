@@ -10,5 +10,13 @@ inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 inc/Module/Install.pm
 lib/Class/Data/Remote.pm
+lib/Class/Data/Remote/RootMeta.pm
+lib/Class/Data/Remote/Entity.pm
+lib/Class/Data/Remote/Connection.pm
+lib/Class/Data/Remote/Iterator.pm
+lib/Class/Data/Remote/EntityMeta.pm
 t/010-basic/010-compile.t
-
+t/020-cpan/010-basic.t
+t/lib/CPAN/Author.pm
+t/lib/CPAN/Connection.pm
+t/lib/CPAN/Model.pm

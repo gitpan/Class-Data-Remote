@@ -1,7 +1,11 @@
 
 Changelog file for Perl distribution Class::Data::Remote
 
+0.003   2009-03-16
+  - Added missing files to MANIFEST (rt#44184 - thanks frank.wiegand!)
 
+0.002   2009-03-15
+  - Added the beginnings of this distribution.
 
 0.001   2009-03-15
   - Initial version.
